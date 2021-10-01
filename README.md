@@ -1,4 +1,4 @@
-#  Simple aplikasi  (Tugas kedua pemrogrman mobile)
+# Bung Tomo  (Tugas kedua pemrograman mobile)
  Aplikasi ini menjelaskan tentang salah satu tokoh pahlawan di indonesia 
 ### Screenshot
  Letakan gambar aplikasi disini 
@@ -7,7 +7,7 @@
 -  widget Image, Text, Row, Column, dan Icon 
 
 ### Created By
--  Stanley Tejadinata
+-  Vincent
     
 ### Mata Kuliah
 COE-5109 Pemprograman Mobile.
